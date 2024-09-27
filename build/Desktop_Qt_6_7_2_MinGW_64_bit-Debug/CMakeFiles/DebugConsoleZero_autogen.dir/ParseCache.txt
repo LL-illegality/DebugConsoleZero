@@ -426,7 +426,6 @@ D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/logsavingdialog.h
  mdp:D:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
  mdp:D:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h
 D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/debugconsolezero.h
-D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/lognode.h
 D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/form.h
  mmc:Q_OBJECT
  mdp:D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/DebugConsoleZero_autogen/moc_predefs.h
@@ -852,9 +851,12 @@ D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/form.h
  mdp:D:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:D:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
  mdp:D:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h
+D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/DebugConsoleZeroX64/DebugConsoleDll.cpp
+D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/lognode.h
 D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/debugconsolezero.cpp
 D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/form.cpp
  uic:ui_form.h
 D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/logsavingdialog.cpp
  uic:ui_logsavingdialog.h
 D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/lognode.cpp
+D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/DebugConsoleZeroX64/DebugConsoleDll.h

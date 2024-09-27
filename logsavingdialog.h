@@ -27,7 +27,7 @@ public:
     void saveLog();
     void getSaveLevel();
     BoolStorage saveLevel;
-    QVector<LogNode> *logListPtr;
+    QVector<LogNode *> *logListPtr;
 
 private slots:
     void on_pushButton_clicked();

@@ -18,6 +18,7 @@ add_library(DebugConsoleZero SHARED
   form.h form.cpp form.ui
   logsavingdialog.h logsavingdialog.cpp logsavingdialog.ui
   lognode.h lognode.cpp
+  DebugConsoleZeroX64/DebugConsoleDll.h DebugConsoleZeroX64/DebugConsoleDll.cpp
 
 )
 

@@ -12,7 +12,7 @@
 
 #define TIMER_TIMEOUT (50) // mesc
 
-extern QVector<LogNode> LogList;
+extern QVector<LogNode *> LogList;
 extern QVector<QString> cmdHelpList;
 
 namespace Ui {
@@ -32,7 +32,7 @@ public:
     void stopUpdating();
     void startUpdating();
     QTimer *timer;
-    QVector<LogNode> logBuffer;
+    QVector<LogNode *> logBuffer;
     bool isLogOutputing;
 
 private slots:
@@ -46,6 +46,7 @@ private slots:
 
 private:
     Ui::Form *ui;
+    bool isSpeedLimited;
 };
 
 #endif // FORM_H

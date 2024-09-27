@@ -50,10 +50,10 @@ void LogSavingDialog::saveLog()
     ui->progressBar->setMaximum(length);
     for (int i = 0; i < length; i++)
     {
-        LogNode node = (*logListPtr)[i];
-        if (saveLevel.getBool(node.level) == true)
+        LogNode *pNode = (*logListPtr)[i];
+        if (saveLevel.getBool(pNode->level) == true)
         {
-            out << node.format() + "\n";
+            out << pNode->format() + "\n";
         }
         ui->progressBar->setValue(i);
         QCoreApplication::processEvents();

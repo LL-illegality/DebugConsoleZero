@@ -256,6 +256,12 @@
 	"HEADERS" : 
 	[
 		[
+			"D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/DebugConsoleZeroX64/DebugConsoleDll.h",
+			"MU",
+			"KM2BECZFOZ/moc_DebugConsoleDll.cpp",
+			null
+		],
+		[
 			"D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/DebugConsoleZero_global.h",
 			"MU",
 			"EWIEGA46WW/moc_DebugConsoleZero_global.cpp",
@@ -358,6 +364,11 @@
 	"SETTINGS_FILE" : "D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/DebugConsoleZero_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/DebugConsoleZeroX64/DebugConsoleDll.cpp",
+			"MU",
+			null
+		],
 		[
 			"D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/debugconsolezero.cpp",
 			"MU",

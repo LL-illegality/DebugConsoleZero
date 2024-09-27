@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DebugConsoleZero",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DebugConsoleZero::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DebugConsoleZero-Debug-f66d8ad9a8f12bf9d829.json",
+					"name" : "DebugConsoleZero",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DebugConsoleZero_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DebugConsoleZero_autogen-Debug-1fcd8d8e73264d1dbf4d.json",
+					"name" : "DebugConsoleZero_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DebugConsoleZero_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DebugConsoleZero_autogen_timestamp_deps-Debug-67397866d4f743783f75.json",
+					"name" : "DebugConsoleZero_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "D:/Programs/QT/c++/DebugConsoleZero/DebugConsoleZero"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
